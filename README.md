@@ -1,2 +1,2 @@
-# app-Microsoft_Teams
-Microsoft Teams app for Oniro
+# app-smaeT_tfosorciM
+smaeT_tfosorciM app for Oniro
